@@ -34,7 +34,7 @@ papers/*.pdf ──► pdftotext ──► fresh `claude -p` per paper ──►
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/overnight-research-agents.git
+git clone https://github.com/azeeb/overnight-research-agents.git
 cd overnight-research-agents
 cp context/brief.md.example context/brief.md   # describe your project, one page
 cp ~/Downloads/*.pdf papers/
