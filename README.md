@@ -7,7 +7,7 @@ It's a bash loop around [Claude Code](https://docs.anthropic.com/en/docs/claude-
 in headless mode: one fresh agent per paper, never one long session, then a final pass
 that ranks what to act on. No framework, no queue, no database. That's the point.
 
-Write-up: <link to your blog post>
+Write-up: https://azeeb.in/blog/overnight-research-agents/
 
 ## How it works
 
