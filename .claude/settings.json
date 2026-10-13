@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(~/.ssh/**)",
+      "Read(~/.aws/**)",
+      "Read(~/.config/**)",
+      "Read(~/.gnupg/**)",
+      "Read(~/.claude/**)",
+      "Read(~/.bash_history)",
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Bash",
+      "Edit",
+      "Write"
+    ]
+  }
+}

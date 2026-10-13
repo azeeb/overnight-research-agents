@@ -1,0 +1,20 @@
+# Project brief
+
+Rename this file to `brief.md` and replace the text. Every run receives it, so keep it
+to one page. Do not put secrets here: agents read it, and it may leak.
+
+## What I'm building
+One paragraph: the product or research goal.
+
+## Who it's for
+Users and their main problem.
+
+## Current priorities
+- Priority 1
+- Priority 2
+
+## Constraints
+Tech stack, data available, budget, anything that rules ideas in or out.
+
+## What a useful paper looks like
+What should make the agent say "Use" rather than "Skip".
